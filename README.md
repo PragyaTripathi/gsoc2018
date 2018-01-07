@@ -1,2 +1,2 @@
-# gsoc2017
-C4N in Google Summer of Code 2017
+# gsoc2018
+C4N in Google Summer of Code 2018
